@@ -14,8 +14,10 @@ A patched version of Samsung Studio, with the IL instructions to check device ty
 
 -5 Download the patched VideoEditor.DLL from this repo, and place it in ```C:\SamsungStudio\VideoEditor``` - If prompted to overwrite an existing file with same name, click yes/confirm.
 
--6 Now open Powershell as administrator, and run ```cd C:\SamsungStudio``` then run ```Add-AppxPackage -Register "C:\SamsungStudio\AppxManifest.xml```
+-6 Uninstall the original downloaded version of Samsung Studio.
 
--7 Done!! Open and Enjoy! 
+-7 Now open Powershell as administrator, and run ```cd C:\SamsungStudio``` then run ```Add-AppxPackage -Register "C:\SamsungStudio\AppxManifest.xml```
+
+-Fin.  Done!! Open and Enjoy! 
 
 K0mraid x Nedry --> 03-22-2024
