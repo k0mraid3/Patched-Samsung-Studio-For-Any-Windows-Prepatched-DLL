@@ -1,7 +1,7 @@
 # Samsung-Studio---Patched-for-any-Windows-Device
 A patched version of Samsung Studio, with the IL instructions to check device type nop'ed out. Tested on Windows 11 24H2 Build 26085 Insider build.
 
-# Instructions to obtain and patch Samsung Studio on a Windows system using "Winget"
+# Instructions to obtain and patching Samsung Studio on a Windows system using "Winget"
 
 -1 Install Samsung Studio via winget using the following command.
 ```winget.exe install --id 9P312B4TZFFH --exact --accept-source-agreements --silent --disable-interactivity --accept-package-agreements```
